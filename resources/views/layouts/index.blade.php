@@ -11,7 +11,7 @@
     <title>@yield('title')</title>
 </head>
 <body>
-<h1> helllllllo</h1>
+
 @yield('content')
 
 <!-- Optional JavaScript; choose one of the two! -->
